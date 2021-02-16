@@ -1,5 +1,10 @@
 ### Olá visitante sou o Mariano Santos 👋
 
+- 🔭 Atualmente atuo na área de vendas de serviços de Big Data (Hadoop), BI, Data Vis ( ), Analytics e Algoritmos de Machine Learning IA, RPA e outras tecnologias 
+- 🌱 Especialista em gerenciamento de projetos de desenvolvimento de sistemas.
+- 🎓 Certificado PMP, Scrum Master e PO, Formado em Ciência da Computação, Pós Graduado em Operador do Mercado Financeiro, MBA em Gestão de Negócios. 
+- 🏌 Na área de TI desde 1990, iniciando como shadow de desenvolvedor dBase III Plus.
+- 💬 Mais sobre o meu perfil profissional em https://www.linkedin.com/in/marianosnts/
 
 <!--
 **marianosnts/marianosnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
